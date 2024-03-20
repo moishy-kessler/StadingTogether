@@ -1,0 +1,179 @@
+[
+    {
+        "id": 1,
+        "src": "https://www.youtube.com/embed/qL_uCpgtZJ8?feature=shared",
+        "alt": "A firefighter's child who was murdered by the terroriists",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 2,
+        "src": "https://www.youtube.com/embed/FSvkQbgc1fc?feature=shared",
+        "alt": "A wounded soldier receives a guitar",
+        "value": "Wounded soldiers"
+    },
+    {
+        "id": 3,
+        "src": "https://www.youtube.com/embed/ijWu3U8X-lc?feature=shared",
+        "alt": "The brother of a wounded soldier calls on Shai to pampar his brother",
+        "value": "Wounded soldiers"
+    },
+    {
+        "id": 4,
+        "src": "https://www.youtube.com/embed/vAsGYJXDjQw?feature=shared",
+        "alt": "Bringing in a Torah scroll to raise the soul of one of the murdered",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 5,
+        "src": "https://www.youtube.com/embed/SV8l71P-b64?feature=shared",
+        "alt": "Jacuzzi and spa for soldiers in the field",
+        "value": "Soldiers in the field"
+    },
+    {
+        "id": 6,
+        "src": "https://www.youtube.com/embed/Opay-my7IpY?feature=shared",
+        "alt": "The wife of a wounded soldier asks for candlesticks to light Shabbat candles",
+        "value": "Wounded soldiers"
+    },
+    {
+        "id": 7,
+        "src": "https://www.youtube.com/embed/1zDD4yaCv54",
+        "alt": "A gift for a soldier in the middle of the road",
+        "value": "Soldiers in the field"
+    },
+    {
+        "id": 8,
+        "src":"https://www.youtube.com/embed/7N8yZqXoSiI",
+        "alt": "A gift for a child who lost his father 5 years ago and his uncle now in the war",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 9,
+        "src": "https://www.youtube.com/embed/st18abBoEtM",
+        "alt": "Congratulating a wounded soldier Omar Ben Tali",
+        "value": "Wounded soldiers"
+    },
+    {
+        "id": 10,
+        "src": "https://www.youtube.com/embed/neYzxOpoBHE",
+        "alt": "Congratulating a couple who each lost one of their legs at a party, and got engaged after approx",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 11,
+        "src": "https://www.youtube.com/embed/-2MrqL5CcWw",
+        "alt": "Shay Groacher takes care of the soldiers inside Gaza",
+        "value": "Soldiers in the field"
+    },
+    {
+        "id": 12,
+        "src": "https://www.youtube.com/embed/zNl7FGkoCVQ",
+        "alt": "Celebrating the birthday of a soldier who lost his eye in the war",
+        "value": "Wounded soldiers"
+    },{
+        "id": 13,
+        "src": "https://www.youtube.com/embed/zvo09sPm4gg",
+        "alt": "A unifying and strengthenung message from a soldier whe lost a leg in the war",
+        "value": "Wounded soldiers"
+    },
+    {
+        "id": 14,
+        "src": "https://www.youtube.com/embed/CTWes8yF2Dg",
+        "alt": "They visit Mia Shem in a hospital",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 15,
+        "src": "https://www.youtube.com/embed/Il5GtCoe7uw",
+        "alt": "who give a pony to a boy who stays at home on the northern border",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 16,
+        "src": "https://www.youtube.com/embed/L3ryIq2F8Wk",
+        "alt": "The story of a woman who lost two sons on October 7",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 17,
+        "src": "https://www.youtube.com/embed/7TsnykafICI",
+        "alt": "Ofir Angel and his girlfriend Yuval after they returned from Hamas captivity",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 18,
+        "src": "https://www.youtube.com/embed/ohxJzqZ5LIo",
+        "alt": "A DJ set as a gift to a soldier who was wounded in the war",
+        "value": "Wounded soldiers"
+    },{
+        "id": 19,
+        "src": "https://www.youtube.com/embed/kp7-uMvDqw0",
+        "alt": "Gifts for the family of a reservist",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 20,
+        "src": "https://www.youtube.com/embed/zxzQIpbtqh4",
+        "alt": "A girl who decided to give gifts to wounded soldiers from her Bat Mitzvah money",
+        "value": "Wounded soldiers"
+    },
+    {
+        "id": 21,
+        "src": "https://www.youtube.com/embed/mZT7YxD633w",
+        "alt": "A strengthening speech by a woman who lost her husband in the war",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 22,
+        "src": "https://www.youtube.com/embed/DqICOuoCPDQ",
+        "alt": "A mixer for a soldier who was injured by an RPG in the Gaza Strip",
+        "value": "Wounded soldiers"
+    },
+    {
+        "id": 23,
+        "src": "https://www.youtube.com/embed/FBDLC19bW9U",
+        "alt": "Pampering a soldier in the middle of the trip",
+        "value": "Soldiers in the field"
+    },
+    {
+        "id": 24,
+        "src": "https://www.youtube.com/embed/tIc8ERPuseo",
+        "alt": "The introduction of a Torah book for the uplifting of the souls of the brothers, \"Ariel Raphael\" and \"Roi Chaim\"",
+        "value": "The families of the victims/soldiers"
+    },{
+        "id": 25,
+        "src": "https://www.youtube.com/embed/8HPbDsfPu1g",
+        "alt": "Marriage proposal of a soldier who was wounded during the war",
+        "value": "Wounded soldiers"
+    },
+    {
+        "id": 26,
+        "src": "https://www.youtube.com/embed/DFiyGF2ZzXg",
+        "alt": "A gift for a girl who lost one of her parents in the war",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 27,
+        "src": "https://www.youtube.com/embed/3jJ4E5IPE8E",
+        "alt": "The organization's car of wishes is on its way to a hospital",
+        "value": "Wounded soldiers"
+    },
+    {
+        "id": 28,
+        "src": "https://www.youtube.com/embed/eYaGGqnM1m0",
+        "alt": "Pampering Maya and Itay Regev after their return from Hamas captivity",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 29,
+        "src": "https://www.youtube.com/embed/j-PMQ6gUlLA",
+        "alt": "The story of Yonatan Elazari who was murdered on October 7",
+        "value": "The families of the victims/soldiers"
+    },
+    {
+        "id": 30,
+        "src": "https://www.youtube.com/embed/UquKX5Vi2B8",
+        "alt": "Rabbi Lazar the chief rabbi of Moscow gives a gift to a girl doing a bat mitzvah who was evacuated from her home in Sderot",
+        "value": "The families of the victims/soldiers"
+    }
+]

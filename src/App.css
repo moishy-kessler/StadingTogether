@@ -1,0 +1,177 @@
+body {
+  margin: 0;
+  background: linear-gradient(to bottom right, rgb(158, 175, 158),rgb(165, 251, 165),rgb(158, 175, 158),rgb(165, 251, 165),rgb(158, 175, 158));
+  font-family: sans-serif;
+}
+
+.link{
+  text-decoration: none;
+  font-weight: bold;
+  transition: 1000ms;
+  color: cadetblue;
+}
+
+.link:hover{
+transform: scale(1.5);
+color: red;
+}
+
+.active{
+  transform: none !important;
+}
+.active2{
+  background: black;
+  color: white;
+}
+
+.pointer {
+  cursor: pointer;
+}
+.text-color {
+  color: #5b5b5b;
+}
+.text-pic{
+  font-family: 'Beau Rivage', cursive;
+}
+.bg-0 {
+  background: #f6f9fc;
+}
+
+.bg-1 {
+  background: #eaf1fb;
+}
+
+.bg-2 {
+  background: #c2e7ff;
+}
+
+.bg-3 {
+  background: #d3e3fd;
+}
+
+.item:active {
+  background: #d3e3fd;
+  border-radius: 10px;
+}
+
+.fs-12 {
+  font-size: 12px;
+}
+
+.fs-15 {
+  font-size: 15px;
+}
+
+.img_logo {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+
+.united {
+  background-image: url(../imegase/pic.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150px;
+}
+.img_carosel{
+  height: 600px;
+}
+
+main {
+  min-height: calc(100vh - 62px);
+  max-width: calc(100vw - 314px);
+  width: 99%;
+}
+
+.bi-facebook{
+  color: blue;
+}
+.bi-tiktok{
+  color: black;
+}
+.bi-whatsapp{
+  color: green;
+}
+.bi-instagram{
+  border-radius: 100%;
+  background: linear-gradient(to bottom left,rebeccapurple,blueviolet,#ce436d,#da5751,#f5c66e);
+  color: white;
+  /* text-gradient: linear-gradient(to bottom left,rebeccapurple,blueviolet,#ce436d,#da5751,#f5c66e); */
+  /* text-gradient: linear-gradient(to top left, red, yellow 50%, green) */
+}
+.bi-youtube{
+  color: red;
+}
+
+.h2Together{
+  font-family: 'Pacifico', cursive;
+}
+
+/* .messages-container {
+  max-height: calc(100vh - 160px);
+} */
+
+input {
+  outline: none;
+  background: none;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+}
+
+.box-hover:hover {
+  background: rgba(134, 198, 255, 0.106);
+  font-weight: bold;
+  text-decoration: underline;
+}
+.text-hover:hover{
+  text-decoration: underline;
+}
+.accordion .accordion-button {
+  background: black;
+  color: white;
+}
+
+.accordion-button.collapsed {
+  background: silver;
+  color: black;
+}
+
+.box-shadow:hover {
+  box-shadow: -5px 5px 13px -7px #797979, 10px 0px 13px -7px #8d8d8d,
+    5px 5px 15px 5px rgba(0, 0, 0, 0);
+  z-index: 9;
+}
+.twww{
+  font-family: 'Merriweather', serif;
+  text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+  }
+  .par{
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+  }
+  @media (min-width: 900px){
+    .par{
+      text-align: justify;
+      font-family: 'Oswald', sans-serif;
+    }
+  }
+  
+
+.formArea{
+  font-size: 22px;
+  font-family: serif;
+  margin: 0 auto;
+  background: linear-gradient(to top right, rgb(210, 210, 210), rgb(190, 190, 190), rgb(210, 210, 210), rgb(190, 190, 190), rgb(210, 210, 210));
+}
+.formPic{
+  height: 660px;
+  background-image: url(./kesher2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
